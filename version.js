@@ -1,2 +1,2 @@
-versionName = "1.2.1"
-versionCode = "90"
+versionName = "1.2.2"
+versionCode = "140"
