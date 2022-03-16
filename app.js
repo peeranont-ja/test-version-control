@@ -13,3 +13,5 @@ console.log(f * g);
 h = 1;
 i = 2;
 console.log(h/i);
+
+console.log("xxxxxxxx");
