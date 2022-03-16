@@ -9,3 +9,7 @@ console.log(c - d)
 f = 1;
 g = 2;
 console.log(f * g)
+
+h = 1;
+i = 2;
+console.log(h/i)
