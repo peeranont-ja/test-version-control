@@ -15,3 +15,5 @@ i = 2;
 console.log(h/i)
 
 console.log("xxxx")
+console.log("xxxx")
+console.log("xxxx")
